@@ -59,7 +59,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -76,7 +76,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1088,10 +1088,11 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+2.5V|NetColor=$006666E0
-Net2=NetName=+VBUS|NetColor=$00000098
-Net3=NetName=+VOUT|NetColor=$00FF0099
-Net4=NetName=+VUSB|NetColor=clRed
-Net5=NetName=GND|NetColor=clBlue
+Net2=NetName=+2.9V|NetColor=$000000CC
+Net3=NetName=+VBUS|NetColor=$00000098
+Net4=NetName=+VOUT|NetColor=$00FF0099
+Net5=NetName=+VUSB|NetColor=clRed
+Net6=NetName=GND|NetColor=clBlue
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
