@@ -242,28 +242,28 @@ DocumentPath=Project Outputs for NANOPSU\PCB1_Top_Courtyard.gbr
 DItemRevisionGUID=
 
 [Parameter1]
-Name=G.URL
-Value=www.lzrsystems.com
+Name=G.Author
+Value=Lázár Sándor
 
 [Parameter2]
-Name=G.Title
-Value=μC with Power Delivery
-
-[Parameter3]
-Name=G.Revision
-Value=Rev. 1
-
-[Parameter4]
-Name=G.Project
-Value=Breadboard PSU
-
-[Parameter5]
 Name=G.Description
 Value=BLE Enabled variable voltage source
 
+[Parameter3]
+Name=G.Project
+Value=Breadboard PSU
+
+[Parameter4]
+Name=G.Revision
+Value=Rev. 1
+
+[Parameter5]
+Name=G.Title
+Value=μC with Power Delivery
+
 [Parameter6]
-Name=G.Author
-Value=Lázár Sándor
+Name=G.URL
+Value=www.lzrsystems.com
 
 [Configuration1]
 Name=Sources
